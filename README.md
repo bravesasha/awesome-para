@@ -19,10 +19,11 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 ## General
 
 - [Website](https://getpara.com)
-- [Twitter](https://x.com/get_para)
+- [X/Twitter](https://x.com/get_para)
 - [Warpcast](https://warpcast.com/getpara)
 - [YouTube](https://www.youtube.com/@getpara)
 - [GitHub](https://github.com/getpara)
+- [Blog](https://blog.getpara.com)
 
 ## Blog
 
